@@ -3,9 +3,10 @@
 Desenvolvedor front end há um ano, comecei brincar com código por volta de 2013, mas levei á sério em 2014, onde quis seguir essa bilhante carreira. Usuário do linux, onde procuro desfrutar desse grande SO. Também utilizo windows nas horas vaga. Pra mim não existe sistema ruim, existe a hora certa de utilizar-lo. Consumidor de bons vídeos e apaixonado por ajudar a comunidade.
 
 **Local**: Mutuípe-BA
+
 **Idade**: 20 anos
 
-*Atualmente á procura de emprego*
+> *Atualmente á procura de emprego*
 
 **Blog**: http://andersonweb.github.io
 
