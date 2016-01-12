@@ -1,12 +1,13 @@
 # Anderson dos santos menezes
 
+## Sobre mim
 Desenvolvedor front end há um ano, comecei brincar com código por volta de 2013, mas levei á sério em 2014, onde quis seguir essa bilhante carreira. Usuário do linux, onde procuro desfrutar desse grande SO. Também utilizo windows nas horas vaga. Pra mim não existe sistema ruim, existe a hora certa de utilizar-lo. Consumidor de bons vídeos e apaixonado por ajudar a comunidade.
+
+> ### *Atualmente á procura de emprego*
 
 **Local**: Mutuípe-BA
 
 **Idade**: 20 anos
-
-> *Atualmente á procura de emprego*
 
 **Blog**: http://andersonweb.github.io
 
@@ -23,9 +24,11 @@ Desenvolvedor front end há um ano, comecei brincar com código por volta de 201
 ## Conhecimentos
 - HTML5
 - CSS3
+- Framework CSS (Boostrap)
+- JeetGs
 - Javascript
 - jQuery
-- Task runner (Gulp, grunt)
+- Ferramentas de workflow (Gulp, grunt, yeoman, slush, bower, npm)
 - Sistema de controle de versão (git)
 - Adoboe photoshop
 - Linha de comando
@@ -34,3 +37,15 @@ Desenvolvedor front end há um ano, comecei brincar com código por volta de 201
 - Jekyll
 - Github
 - Inglês básico
+- Wordpress básico
+- Design Responsivo
+- Kanban
+
+## Experiências
+Estágiario - Zup agência 2013-2014 -
+ > Trabalha com pequenas modificações de HTML/CSS no CMS wordpress.
+
+## Cursos
+- Cursos javascript ninja
+- Cursos Git e github ninja
+- Jekyll Essentials
