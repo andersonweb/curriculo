@@ -1,4 +1,4 @@
-# Anderson dos Santos Menezes
+![Anderson Menezes](https://cloud.githubusercontent.com/assets/3930770/12254317/dcee4944-b8c5-11e5-8394-b32b05f8e230.png)
 
 ## Sobre mim
 Desenvolvedor front end há um ano, comecei brincar com código por volta de 2013, mas levei á sério em 2014, onde quis seguir essa bilhante carreira. Usuário do linux, onde procuro desfrutar desse grande SO. Também utilizo windows nas horas vaga. Pra mim não existe sistema ruim, existe a hora certa de utilizar-lo. Consumidor de bons vídeos e apaixonado por ajudar a comunidade.
