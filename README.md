@@ -43,7 +43,7 @@ Desenvolvedor front end há um ano, comecei brincar com código por volta de 201
 
 ## Experiências
 Estágiario - Zup agência 2013-2014 -
- > Trabalha com pequenas modificações de HTML/CSS no CMS wordpress.
+ > Trabalhava com pequenas modificações de HTML/CSS no CMS wordpress.
 
 ## Cursos
 - Cursos javascript ninja
