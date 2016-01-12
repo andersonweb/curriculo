@@ -46,6 +46,8 @@ Estágiario - Zup agência 2013-2014 -
  > Trabalhava com pequenas modificações de HTML/CSS no CMS wordpress.
 
 ## Cursos
+- Curso de (X)HTML (Universidade XTI)
+- Curso de CSS (Universidade XTI)
 - Cursos javascript ninja
 - Cursos Git e github ninja
 - Jekyll Essentials
