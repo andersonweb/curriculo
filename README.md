@@ -1,4 +1,4 @@
-# Anderson dos santos menezes
+# Anderson dos Santos Menezes
 
 ## Sobre mim
 Desenvolvedor front end há um ano, comecei brincar com código por volta de 2013, mas levei á sério em 2014, onde quis seguir essa bilhante carreira. Usuário do linux, onde procuro desfrutar desse grande SO. Também utilizo windows nas horas vaga. Pra mim não existe sistema ruim, existe a hora certa de utilizar-lo. Consumidor de bons vídeos e apaixonado por ajudar a comunidade.
@@ -51,3 +51,6 @@ Estágiario - Zup agência 2013-2014 -
 - Cursos javascript ninja
 - Cursos Git e github ninja
 - Jekyll Essentials
+
+## Projetos
+- [Free time](https://free-time.github.io)
