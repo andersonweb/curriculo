@@ -48,11 +48,19 @@ Front end Jr - Zup agência 2013-2014 -
  > Trabalhava com modificações de HTML/CSS no CMS wordpress.
 
 ## Cursos
-- Curso de (X)HTML (Universidade XTI)
-- Curso de CSS (Universidade XTI)
-- Cursos javascript ninja
-- Cursos Git e github ninja
-- Jekyll Essentials
+#### Universidade XTI
+---
+ - Curso de (X)HTML
+ - Curso de CSS
+
+#### Da2k cursos
+---
+ - Javascript ninja
+ - Git e github ninja
+
+#### Tuts Plus
+---
+ - Jekyll Essentials 
 
 ## Projetos
 - [Free time](https://free-time.github.io)
