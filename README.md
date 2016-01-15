@@ -49,17 +49,14 @@ Front end Jr - Zup agência 2013-2014 -
 
 ## Cursos
 #### Universidade XTI
----
  - Curso de (X)HTML
  - Curso de CSS
 
 #### Da2k cursos
----
  - Javascript ninja
  - Git e github ninja
 
 #### Tuts Plus
----
  - Jekyll Essentials 
 
 ## Projetos
