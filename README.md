@@ -44,8 +44,8 @@ Desenvolvedor front end ano, comecei brincar com código por volta de *2013*, ma
 - Kanban
 
 ## Experiências
-Estágiario - Zup agência 2013-2014 -
- > Trabalhava com pequenas modificações de HTML/CSS no CMS wordpress.
+Front end Jr - Zup agência 2013-2014 -
+ > Trabalhava com modificações de HTML/CSS no CMS wordpress.
 
 ## Cursos
 - Curso de (X)HTML (Universidade XTI)
@@ -56,3 +56,5 @@ Estágiario - Zup agência 2013-2014 -
 
 ## Projetos
 - [Free time](https://free-time.github.io)
+- [Cuidado do seu dinheiro](#)
+ - Curso voltado para consultoras Natura.  
