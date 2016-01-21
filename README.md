@@ -32,14 +32,14 @@ Desenvolvedor front end há dois anos. Comecei brincar com código por volta de 
 - jQuery
 - Ferramentas de workflow (Gulp, grunt, yeoman, slush, bower, npm)
 - Sistema de controle de versão (git)
-- Adoboe photoshop
+- Adobe photoshop
 - Linha de comando
 - Linux
 - Sass
 - Jekyll
 - Github
 - Inglês básico
-- Wordpress básico
+- WordPress básico
 - Design Responsivo
 - Kanban
 
