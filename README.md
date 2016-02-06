@@ -1,5 +1,5 @@
 ![Anderson Menezes](https://cloud.githubusercontent.com/assets/3930770/12254317/dcee4944-b8c5-11e5-8394-b32b05f8e230.png)
-
+####[Version english](english-version.md)
 ## Sobre mim
 Sou desenvolvedor front-end há dois anos. Comecei a brincar com código por volta de 2013, gostei e me aprofundei em 2014, onde quis seguir essa brilhante carreira. Sou usuário Linux e me sinto confortável em trabalhar com ele pois me oferecem funcionalidades diferenciadas que me ajudam a fazer um ótimo trabalho de desenvolvimento. Contudo, sei trabalhar com outros sistemas operacionais sem problema. Sou um consumidor de bons vídeos e apaixonado por ajudar a comunidade. :smiley:
 
