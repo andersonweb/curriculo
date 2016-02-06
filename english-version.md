@@ -61,5 +61,5 @@ Jr. Front-end developer - Zup Agency 2013 to 2014
 
 ## Projects
 - [Free time](https://free-time.github.io)
-- [Cuidado do seu dinheiro - Taking care of your money](#)
+- [Taking care of your money](#)
  - Just to Natura's consultants.  
