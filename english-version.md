@@ -5,8 +5,6 @@ I'm a front-end developer for 2 years. I've started to coding in 2013, but I del
 
 ***I'm available for new jobs***
 
-***Estou disponível para o mercado de trabalho***
-
 **Place**: Mutuípe-BA
 
 **Age**: 20 anos
