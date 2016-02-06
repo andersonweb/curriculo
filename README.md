@@ -1,9 +1,9 @@
 ![Anderson Menezes](https://cloud.githubusercontent.com/assets/3930770/12254317/dcee4944-b8c5-11e5-8394-b32b05f8e230.png)
 
 ## Sobre mim
-Desenvolvedor front end há dois anos. Comecei brincar com código por volta de 2013, mas levei á sério em 2014, onde quis seguir essa brilhante carreira. Usuário do linux, onde procuro desfrutar desse grande SO. Também utilizo windows nas horas vagas. Pra mim não existe sistema ruim, existe a hora certa de utiliza-lo. Consumidor de bons vídeos e apaixonado por ajudar a comunidade
+Sou desenvolvedor front-end há dois anos. Comecei a brincar com código por volta de 2013, gostei e me aprofundei em 2014, onde quis seguir essa brilhante carreira. Sou usuário Linux e me sinto confortável em trabalhar com ele pois me oferecem funcionalidades diferenciadas que me ajudam a fazer um ótimo trabalho de desenvolvimento. Contudo, sei trabalhar com outros sistemas operacionais sem problema. Sou um consumidor de bons vídeos e apaixonado por ajudar a comunidade. :smiley:
 
-> ### *Atualmente á procura de emprego*
+> ### *Estou disponível para o mercado de trabalho*
 
 **Local**: Mutuípe-BA
 
@@ -28,11 +28,11 @@ Desenvolvedor front end há dois anos. Comecei brincar com código por volta de 
 - CSS3
 - Framework CSS (Boostrap)
 - JeetGs
-- Javascript
+- JavaScript
 - jQuery
 - Ferramentas de workflow (Gulp, grunt, yeoman, slush, bower, npm)
 - Sistema de controle de versão (git)
-- Adobe photoshop
+- Adobe Photoshop
 - Linha de comando
 - Linux
 - Sass
@@ -44,8 +44,8 @@ Desenvolvedor front end há dois anos. Comecei brincar com código por volta de 
 - Kanban
 
 ## Experiências
-Front end Jr - Zup agência 2013-2014 -
- > Trabalhava com modificações de HTML/CSS no CMS wordpress.
+Desenvolvedor Front-end Jr - Zup Agência 2013 - 2014
+ > Trabalhava com modificações de HTML/CSS no CMS WordPress.
 
 ## Cursos
 #### Universidade XTI
